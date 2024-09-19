@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Fabrício Lopes 👋<br><br>🎓 Currently studying Computer Science and Engineering<br>🔭 Exploring new challenges in the tech world<br>👯 Looking to collaborate on open-source projects<br>🤝 Seeking help and mentorship in web development<br>🌱 Currently learning C, Java, JavaScript, and SQL<br>💬 Feel free to ask me about what I’m learning or if you have beginner tips!<br>⚡ Fun fact: I’m based in Porto, Portugal and passionate about technology!<br><br>📫 Let's connect:<br>Email: fabriciolopesprofissional@gmail.com
+Hi! I'm Fabrício Lopes 👋<br><br>🎓 Currently studying Computer Science and Engineering<br>🔭 Exploring new challenges in the tech world<br>👯 Looking to collaborate on open-source projects<br>🤝 Seeking help and mentorship in web development<br>🌱 Currently learning C, Java, JavaScript, and SQL<br>💬 Feel free to ask me about what I’m learning or if you have beginner tips!<br>⚡ Fun fact: I live in Porto, Portugal and passionate about technology!<br><br>📫 Let's connect:<br>Email: fabriciolopesprofissional@gmail.com
 
 
 ## 🌐 Socials:
