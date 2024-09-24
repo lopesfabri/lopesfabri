@@ -9,8 +9,11 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://linkedin.com/in/fabricio-lopes-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&size=50" style="margin-right: 15px;"/></a>
-  <a href="mailto:fabriciolopesprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&size=50" style="margin-left: 15px;"/></a>
+ <a href="https://linkedin.com/in/fabricio-lopes-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&size=50" style="margin-right: 15px;"/></a>
+ <a href="mailto:fabriciolopesprofissional@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&size=50" style="margin-left: 15px;"/>
+</a>
+
 </div>
 <p align="center">📫Feel free to connect with me!</p>
 
