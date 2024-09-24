@@ -28,7 +28,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block; width: 45%; height: 200px; margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width: 40%; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block; width: 45%; height: 195px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width: 45%; height: 200px; margin: 10px;"/>
 </div>
+
+
 
