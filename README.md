@@ -2,7 +2,7 @@
 <div align="center">
   <h2><strong style="font-size: 1.8em;">👋 Hi! I'm Fabrício</strong></h2><br>
   🎓 Computer Science and Engineering student<br>
-  👨🏻‍💻 Currently learning C, Java, JavaScript, and SQL to expand my skills.<br>
+  🌱 Currently learning C, Java, JavaScript, and SQL to expand my skills.<br>
   🎯 My goal is to level up my coding skills and work on projects that really matter.<br>
   🌟 Aspiring to be a software engineer who creates innovative solutions that make a difference.
 </div>
