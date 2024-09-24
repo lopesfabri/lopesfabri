@@ -1,17 +1,18 @@
 # 💫 About Me:
 <div align="center">
-<h1><strong> Hi👋 I'm Fabrício Lopes</strong></h1><br>
-🎓 Computer Science and Engineering student<br>
-👨🏻‍💻 Currently learning C, Java, JavaScript, and SQL to expand my skills.<br>
-🎯 My goal is to level up my coding skills and work on projects that really matter.<br>
-🌟 Aspiring to be a software engineer who creates innovative solutions that make a difference.
+  <h1><strong style="font-size: 1.8em;">👋 Hi! I'm Fabrício Lopes</strong></h1><br>
+  🎓 Computer Science and Engineering student<br>
+  👨🏻‍💻 Currently learning C, Java, JavaScript, and SQL to expand my skills.<br>
+  🎯 My goal is to level up my coding skills and work on projects that really matter.<br>
+  🌟 Aspiring to be a software engineer who creates innovative solutions that make a difference.
 </div>
 
 ## 🌐 Socials:
 <div align="center">
-<a href="https://linkedin.com/in/fabricio-lopes-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&size=50" style="margin-right: 15px;"/></a>
-<a href="mailto:fabriciolopesprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&size=50" style="margin-left: 15px;"/></a>
+  <a href="https://linkedin.com/in/fabricio-lopes-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&size=50" style="margin-right: 15px;"/></a>
+  <a href="mailto:fabriciolopesprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&size=50" style="margin-left: 15px;"/></a>
 </div>
+<p align="center">📫Feel free to connect with me!</p>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -31,7 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block; width: 45%; height: 200px; margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width: 45%; height: 200px; margin: 10px;"/>
 </div>
-
-
-
-
