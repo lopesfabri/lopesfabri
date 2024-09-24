@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <h1><strong style="font-size: 1.8em;">👋 Hi! I'm Fabrício Lopes</strong></h1><br>
+  <h2><strong style="font-size: 1.8em;">👋 Hi! I'm Fabrício</strong></h2><br>
   🎓 Computer Science and Engineering student<br>
   👨🏻‍💻 Currently learning C, Java, JavaScript, and SQL to expand my skills.<br>
   🎯 My goal is to level up my coding skills and work on projects that really matter.<br>
@@ -29,5 +29,5 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width: 45%; height: 200px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciolopesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; width: 70%; height: 200px; margin: 10px;"/>
 </div>
